@@ -85,7 +85,7 @@ app.get("/main", async(req, res) => {
     } else {
         if(doc.Position === 2) {
         const key = await createKey();
-        const time = 5000 * 60;
+        const time = 1000 * 60 * 60 * 24; // 24 hours
         new schema({
             HWID: doc.HWID,
             Key: key,
