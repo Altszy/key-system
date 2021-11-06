@@ -35,7 +35,7 @@ users ip's and hwid's
 
 for that i suggest a package called bcrypt (https://www.npmjs.com/package/bcrypt)
 
-If you do decide to publish an exploit using this key system code credits aren't required but
+If you do decide to publish anything using this key system code credits aren't required but
 would be appreciated
 
 Created by kyron (https://wearedevs.net/profile?uid=69305)
