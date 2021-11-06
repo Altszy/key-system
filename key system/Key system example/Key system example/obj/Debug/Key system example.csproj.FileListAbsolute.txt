@@ -1,0 +1,10 @@
+C:\Users\kyron\source\repos\Key system example\Key system example\bin\Debug\Key system example.exe.config
+C:\Users\kyron\source\repos\Key system example\Key system example\bin\Debug\Key system example.exe
+C:\Users\kyron\source\repos\Key system example\Key system example\bin\Debug\Key system example.pdb
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key system example.csproj.AssemblyReference.cache
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key_system_example.Form1.resources
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key_system_example.Properties.Resources.resources
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key system example.csproj.GenerateResource.cache
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key system example.csproj.CoreCompileInputs.cache
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key system example.exe
+C:\Users\kyron\source\repos\Key system example\Key system example\obj\Debug\Key system example.pdb
